@@ -1,0 +1,28 @@
+%YAML:1.0
+CameraMatrix: !!opencv-matrix
+  rows: 3
+  cols: 3
+  dt: "d"
+  data: [462.4966313481788, 0, 946.1627826934293, 0, 460.8744705276098, 530.7815223866917, 0, 0, 1]
+DistortionCoeffs: !!opencv-matrix
+  rows: 4
+  cols: 1
+  dt: "d"
+  data: [0.08728711296768452, -9.665353321124107e-05, 0.003617474262533791, -0.001917428872934612]
+Scale: 1
+CalibrationQuality: "100"
+Timestamp: "2018-06-20 15:42:07 UTC"
+CalibrationId: "{449dea7f-a85f-4fb6-9be3-93292172e1ed}"
+Error: 0.3468100305855121
+FocalLength: -1
+DFOV: -1
+HFOV: 197.6905159781803
+VFOV: 121.1989132745057
+Width: 1920
+Height: 1080
+CameraModel: "dc3k-2-lvd"
+SerialNumber: ""
+Lens: ""
+Firmware: ""
+Id: "11-09-0a-0f-05-09"
+DistortionModel: "fisheye"
